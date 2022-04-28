@@ -1,6 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 
+//in the dashboard component we should give some name in the url then it will reload the component
 const Dashboard = () => {
   const {name}  = useParams();
   return (

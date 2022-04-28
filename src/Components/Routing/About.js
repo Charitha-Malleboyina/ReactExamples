@@ -1,6 +1,6 @@
 import React from 'react'
-import ReactLogo from '../react.png';
-import AudioFile from '../music.mp3';
+import ReactLogo from './react.png';
+import AudioFile from './music.mp3';
 
 const About = () => {
   return (

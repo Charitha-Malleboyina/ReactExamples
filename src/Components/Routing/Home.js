@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate ,useHistory} from "react-router-dom";
-import videoFile from '../video.mp4';
+import videoFile from './video.mp4';
 
 const Home = () => {
  
